@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Hello,how are you
 hi
+=======
+>>>>>>> parent of 56fd28a (updated)
